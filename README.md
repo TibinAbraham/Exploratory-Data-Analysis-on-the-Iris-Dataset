@@ -1,5 +1,5 @@
 
-*Project Aim: Exploratory Data Analysis on the Iris Dataset**
+**Project Aim: Exploratory Data Analysis on the Iris Dataset**
 
 Welcome to the Exploratory Data Analysis (EDA) project focused on the renowned Iris dataset. The primary objective of this project is to delve into the dataset's intricacies, unveiling its characteristics and establishing connections between various features.
 
